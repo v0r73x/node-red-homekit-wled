@@ -2,6 +2,7 @@
 an json API controlled flow which allows to set weld in HomeKit with 1 FX switch
 flow:
 
+![image](https://user-images.githubusercontent.com/48632087/225753708-8671dfbb-b18d-432d-9242-a918e97e2181.png)
 
 _______________________________________________________________________________________________________________________________________________________
 
