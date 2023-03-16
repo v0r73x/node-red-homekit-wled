@@ -1,5 +1,5 @@
 # node-red-homekit-wled
-an json API controlled flow which allows to set weld in HomeKit with 1 FX switch.
+an json API controlled flow which allows to set WLED in HomeKit with 1 FX switch.
 
 Requirements I had:
 
