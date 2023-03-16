@@ -1,5 +1,15 @@
 # node-red-homekit-wled
-an json API controlled flow which allows to set weld in HomeKit with 1 FX switch
+an json API controlled flow which allows to set weld in HomeKit with 1 FX switch.
+
+Requirements I had:
+
+- color must be bidirectional controlled by flow (When inputs on WLED Gui it will update Homekit state as well 
+- own node red dashboard control possibility 
+- Siri Assistant WHITHOUT falling into state RED !!! (most important for me ;) ) 
+- Usebility with Sound Reactive WLEDs to trigger by switch the Sound Reaction FX (FX:132) called gravicenter which is also possible to trigger by Siri
+
+Just import whole code into Node Red. You need some packages as reqirement...
+
 flow:
 
 ![image](https://user-images.githubusercontent.com/48632087/225753708-8671dfbb-b18d-432d-9242-a918e97e2181.png)
